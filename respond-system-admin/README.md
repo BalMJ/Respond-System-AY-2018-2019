@@ -14,4 +14,4 @@ to activate respond-system-admin
 >While inside respond-system-admin folder
 >>Shift+Right Click, open CMD or Windows Powershell
 >>>Type 'npm install'
->>>after node modules are finished Type 'npm start'
+>>>,after node modules are finished Type 'npm start'

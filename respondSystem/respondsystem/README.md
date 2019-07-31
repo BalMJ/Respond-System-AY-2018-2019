@@ -16,5 +16,7 @@ to open respondSystem App
 >Open your android emulator 
 >While inside 'respondSystem' folder
 >>Shift+Right Click, open CMD or Windows Powershell
->>Type react-native run-android
+>>Type 'npm install' to install node modules
+>after
+>>Type 'react-native run-android'
 
